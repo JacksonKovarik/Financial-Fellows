@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DancingScript-VariableFont_wght.ttf",
+      "sha1": "80f13e7575ec59a51b7fdc42bb0b9d7a34439123"
+    },
+    {
+      "path": "assets/fonts/Judson/Judson-Bold.ttf",
+      "sha1": "67db75a38633cbf143a754d0e1585e1aad1cee19"
+    },
+    {
+      "path": "assets/fonts/Judson/Judson-Italic.ttf",
+      "sha1": "661088ce7beccc52697d659c7fbcb3672c51c7a4"
+    },
+    {
+      "path": "assets/fonts/Judson/Judson-Regular.ttf",
+      "sha1": "f15a474eff6439ed45b4692450576cab93c6e151"
+    },
+    {
+      "path": "assets/fonts/Judson/OFL.txt",
+      "sha1": "6a6da54b5eeef8624d370cd56de8af4d1783977c"
+    },
+    {
+      "path": "assets/fonts/Righteous-Regular.ttf",
+      "sha1": "3129e2b47e224dec082c4169b396b1fa27a95749"
+    }
+  ]
+}
