@@ -35,6 +35,12 @@ Financial Fellows is a mobile application written with the React-Native CLI for 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+### Download Code or Clone Repository
+
+```
+https://github.com/JacksonKovarik/CIS-250-Expense-Tracking-App.git
+```
+
 ### Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
