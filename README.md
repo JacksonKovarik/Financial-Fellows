@@ -38,7 +38,7 @@ Financial Fellows is a mobile application written with the React-Native CLI for 
 ### Download Code or Clone Repository
 
 ```
-https://github.com/JacksonKovarik/CIS-250-Expense-Tracking-App.git
+git clone https://github.com/JacksonKovarik/CIS-250-Expense-Tracking-App.git
 ```
 
 ### Start the Metro Server
