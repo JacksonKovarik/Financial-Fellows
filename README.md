@@ -39,6 +39,7 @@ Financial Fellows is a mobile application written with the React-Native CLI for 
 
 ```
 git clone https://github.com/JacksonKovarik/Financial-Fellows.git
+cd financial-fellows
 ```
 
 ### Start the Metro Server
