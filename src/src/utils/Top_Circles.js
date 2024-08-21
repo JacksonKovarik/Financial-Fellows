@@ -1,10 +1,7 @@
 import React from 'react';
 import {
-    Pressable,
     SafeAreaView,
     StyleSheet,
-    Text,
-    TextInput,
     View,
 } from 'react-native';
 import {COLORS} from "../utils/COLORS";
