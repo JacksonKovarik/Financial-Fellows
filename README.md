@@ -1,5 +1,7 @@
 This is a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+&emsp; &emsp; &emsp;- To view this app using [**Expo**](https://expo.dev/), [**click here**](https://github.com/JacksonKovarik/expo-Fincancial-Fellows)
+
 # Financial Fellows
 
 ## Project Description
